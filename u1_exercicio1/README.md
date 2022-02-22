@@ -12,7 +12,7 @@
 9. Adicione a conta **pwebufersa** como colaborador do repositório.
 10. Baixe e instale as [ferramentas vistas na aula](https://drive.google.com/open?id=17asMlFEYoRuqUKfE7wmUzCGHnT_l-4Oh) do dia 18/02/2022.
 11. Crie uma pasta e arquivo de nome "u1_exericio1\index.html" na raiz do  repositório local, de acordo com a Aula 1 do dia 23/07/2021.
-12. Imite esse [site](exercicio1.jpg). Pesquise na [w3c](https://www.w3schools.com/TAGS/default.ASP) ou na [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+12. Imite esse [site](exercicio1.jpg). Pesquise as tags na [w3c](https://www.w3schools.com/TAGS/default.ASP) ou na [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML). 
 13. Coloque o seu código secreto no index.html com a tag <codigoSecreto="...">. O código secreto foi enviado para seu e-Mail institucional.
 14. Faça o *commit* do projeto localmente e sincronize-o (*push*) com o seu repositório remoto no GitHub.
 
