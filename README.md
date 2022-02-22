@@ -5,7 +5,7 @@ Exercícios de Programação WEB da UFERSA Angicos no semestre 2021.2.
 
 # Unidade 1
 
-## Exercício 1 - 1,0 ponto se entregar até ??/03/2022
+## Exercício 1 - 1,0 ponto se entregar até 04/03/2022
 Veja [aqui](u1_exercicio1/).
 
 ## Exercício 2 - 1,0 ponto se entregar até ??/??/2022
