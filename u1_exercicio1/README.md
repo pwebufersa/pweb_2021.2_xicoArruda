@@ -19,4 +19,4 @@
 ##### [Git+GitHub by Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
 ##### [Git+GitHub by Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 ##### [Git+GitHub+Markdown by Gustavo Guanabara](../git_github_gguanabara/)
-##### [Material didático da disciplina](https://drive.google.com/drive/u/1/folders/1AnLNn-cGqWrpOerD49Tfk9iP9E1YMTkp)
+##### [Material didático da disciplina](https://drive.google.com/open?id=16I2WfDFZMKDNZGPu1Wq2rl1uceQUZjr6)
