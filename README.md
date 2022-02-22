@@ -17,17 +17,17 @@ Veja [aqui](u1_exercicio3/).
 ## Exercício 4 - 1,0 pontos se entregar até ??/??/2022
 Veja [aqui](u1_exercicio4/).
 
-## Exercício 4 - 1,0 pontos se entregar até ??/??/2022
+## Exercício 5 - 1,0 pontos se entregar até ??/??/2022
 Veja [aqui](u1_exercicio5/).
 
 ---
 
 # Unidade 2
-## Exercícios - 5,0 pontos se entregar até ??/??/2022
-Veja na pasta u2_exercicios no seu repositório da disciplina.
+## Projeto - Parte 1 - 5,0 pontos se entregar até ??/??/2022
+Veja na pasta projeto no seu repositório da disciplina.
 
 ---
 
 # Unidade 3
-## Exercícios - 5,0 pontos se entregar até ??/??/2022
-Veja na pasta u3_exercicios no seu repositório da disciplina.
+## Projeto - Parte 2 - 5,0 pontos se entregar até ??/??/2022
+Veja na pasta projeto no seu repositório da disciplina.
