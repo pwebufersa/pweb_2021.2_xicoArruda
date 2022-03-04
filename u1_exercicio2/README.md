@@ -1,7 +1,7 @@
 # Programação WEB - 2021.2 - UFERSA Angicos
 # Unidade 1
 
-## Exercício 2 - 2,0 pontos
+## Exercício 2 - ?,0 pontos
 ### [Vídeo explicando o exercício 2](https://drive.google.com/file/d/1xhuvD5pK-Aa0L3l00svK3x6H4T-Br1V9/view?usp=sharing)
 1. _Opcional_ - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
 2. O professor organizou 2 pastas no seu repositório: u1_exercicio1 e u1_exercicio2.
