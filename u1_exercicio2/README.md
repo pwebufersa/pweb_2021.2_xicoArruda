@@ -9,6 +9,8 @@
 4. Na pasta u1_exercicio2 tem os nomes dos os arquivos que você deve codificar.
 5. [Aqui](telasDoSite) estão as telas/**prints** de todo o site, que você deve imitar.
 6. A navegação no site foi pensada previamente. Veja o vídeo e confira se a navegação do seu site está de acordo.
-7. O professor enviou, por e-mail, o codigoSecreto, os sites de notícias, a cor do menu e cor dos botões.
-8. Conforme for fazendo o exercício, faça _commit_ e sincronizações periódicas com o repositório remoto. O monitor da turma pode ajudar. Apenas 1 **commit** ao final do exercício é perigoso!
-9. Boa sorte!
+7. [Aqui](https://www.w3schools.com/css/css_navbar_horizontal.asp) tem o link da barra de navegação usada na aula.
+8. O professor enviou, por e-mail, o codigoSecreto, os sites de notícias, a cor do menu e cor dos botões.
+9. Conforme for fazendo o exercício, faça _commit_ e sincronizações periódicas com o repositório remoto. O monitor da turma pode ajudar. Apenas 1 **commit** ao final do exercício é perigoso!
+
+10. Boa sorte!
