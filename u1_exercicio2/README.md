@@ -12,5 +12,4 @@
 7. [Aqui](https://www.w3schools.com/css/css_navbar_horizontal.asp) tem o link da barra de navegação usada na aula.
 8. O professor enviou, por e-mail, o codigoSecreto, os sites de notícias, a cor do menu e cor dos botões.
 9. Conforme for fazendo o exercício, faça _commit_ e sincronizações periódicas com o repositório remoto. O monitor da turma pode ajudar. Apenas 1 **commit** ao final do exercício é perigoso!
-
 10. Boa sorte!
