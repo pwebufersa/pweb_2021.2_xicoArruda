@@ -2,7 +2,6 @@
 # Unidade 1
 
 ## Exercício 2 - 2,0 pontos
-### [Vídeo explicando o exercício 2](#)
 1. _Opcional_ - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
 2. O professor organizou 2 pastas no seu repositório: u1_exercicio1 e u1_exercicio2.
 3. Você deverá codificar, usando HTML e CSS, todo o site do exercício 2 e colocar tudo na pasta **u1_exercicio2**. São 8 páginas .html, 1 pasta de imagens e 1 pasta com o style.css.
