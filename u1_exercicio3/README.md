@@ -7,7 +7,7 @@
 ### Arquivos de apoio para fazer o CadPessoas com Spring estão [nessa pasta](https://drive.google.com/open?id=17-KGWKYdf9qTHCMfD6ZVPP4DsKt-rjpZ)
 0. Abra a pasta dos [instaladores](https://drive.google.com/open?id=18dA-rNfcuu1rmoi2xY9Ba7zKEYB_fSx6) no gDrive.
 1. Instale o [OpenJDK 8](https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot), de acordo com o Vídeo 1.
-2. Use o VSCode&[VSCode](https://code.visualstudio.com/).
+2. Use o [VSCode](https://code.visualstudio.com/).
 4. Crie o projeto no [Spring Initializr](https://start.spring.io/) seguindo as [instruções](https://drive.google.com/open?id=17htKMi-29yO4uio_4ObtZQA5SBqs5jgm), substituindo o nome do professor pelo seu nome.
 5. Descompacte o projeto criado no Spring Initializr na pasta _u1_exercicio3_ , dentro da pasta onde fica o seu repositório da disciplina.
 6. Abra o projeto no VSCode.
