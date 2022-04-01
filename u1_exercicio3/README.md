@@ -1,7 +1,7 @@
 # Programação WEB - 2021.2 - UFERSA Angicos
 # Unidade 1
 
-## (2,0 pontos) U1 -  Exercício 3 -  Até ??/04/2022:
+## (2,0 pontos) U1 -  Exercício 3 -  Até 03/04/2022:
 ### [Vídeo 1 explicando o exercício 3 (r do crud)](https://drive.google.com/file/d/1s0j2dqfTjcpiWqMlyD0KhSJJy4AV0g9p/view?usp=sharing)
 ### [Vídeo 2 explicando o exercício 3 (c,u,d do crud)](https://drive.google.com/file/d/1MRpWvcjpqkehnb9pfSC1Jj38eeOylg_0/view?usp=sharing)
 ### Arquivos de apoio para fazer o CadPessoas com Spring estão [nessa pasta](https://drive.google.com/open?id=17-KGWKYdf9qTHCMfD6ZVPP4DsKt-rjpZ)
